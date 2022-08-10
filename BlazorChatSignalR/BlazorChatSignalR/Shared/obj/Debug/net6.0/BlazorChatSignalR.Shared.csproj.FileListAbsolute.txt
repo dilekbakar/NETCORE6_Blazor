@@ -1,0 +1,12 @@
+C:\Users\mtari\Desktop\GITHUB\NETCORE6_Blazor\BlazorChatSignalR\BlazorChatSignalR\Shared\bin\Debug\net6.0\BlazorChatSignalR.Shared.deps.json
+C:\Users\mtari\Desktop\GITHUB\NETCORE6_Blazor\BlazorChatSignalR\BlazorChatSignalR\Shared\bin\Debug\net6.0\BlazorChatSignalR.Shared.dll
+C:\Users\mtari\Desktop\GITHUB\NETCORE6_Blazor\BlazorChatSignalR\BlazorChatSignalR\Shared\bin\Debug\net6.0\BlazorChatSignalR.Shared.pdb
+C:\Users\mtari\Desktop\GITHUB\NETCORE6_Blazor\BlazorChatSignalR\BlazorChatSignalR\Shared\obj\Debug\net6.0\BlazorChatSignalR.Shared.csproj.AssemblyReference.cache
+C:\Users\mtari\Desktop\GITHUB\NETCORE6_Blazor\BlazorChatSignalR\BlazorChatSignalR\Shared\obj\Debug\net6.0\BlazorChatSignalR.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtari\Desktop\GITHUB\NETCORE6_Blazor\BlazorChatSignalR\BlazorChatSignalR\Shared\obj\Debug\net6.0\BlazorChatSignalR.Shared.AssemblyInfoInputs.cache
+C:\Users\mtari\Desktop\GITHUB\NETCORE6_Blazor\BlazorChatSignalR\BlazorChatSignalR\Shared\obj\Debug\net6.0\BlazorChatSignalR.Shared.AssemblyInfo.cs
+C:\Users\mtari\Desktop\GITHUB\NETCORE6_Blazor\BlazorChatSignalR\BlazorChatSignalR\Shared\obj\Debug\net6.0\BlazorChatSignalR.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mtari\Desktop\GITHUB\NETCORE6_Blazor\BlazorChatSignalR\BlazorChatSignalR\Shared\obj\Debug\net6.0\BlazorChatSignalR.Shared.dll
+C:\Users\mtari\Desktop\GITHUB\NETCORE6_Blazor\BlazorChatSignalR\BlazorChatSignalR\Shared\obj\Debug\net6.0\refint\BlazorChatSignalR.Shared.dll
+C:\Users\mtari\Desktop\GITHUB\NETCORE6_Blazor\BlazorChatSignalR\BlazorChatSignalR\Shared\obj\Debug\net6.0\BlazorChatSignalR.Shared.pdb
+C:\Users\mtari\Desktop\GITHUB\NETCORE6_Blazor\BlazorChatSignalR\BlazorChatSignalR\Shared\obj\Debug\net6.0\ref\BlazorChatSignalR.Shared.dll
