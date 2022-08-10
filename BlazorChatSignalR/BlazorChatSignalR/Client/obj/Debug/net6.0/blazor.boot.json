@@ -205,14 +205,14 @@
       "netstandard.dll": "sha256-HhuK9zDkd1N7hODAEiNJ11VF8T54IgrM6hZfLHmHdqM=",
       "System.Private.CoreLib.dll": "sha256-dXaTqyg1PnXPiSwywpic1PVrd7P8Vb5tN0i0\/urdt3E=",
       "BlazorChatSignalR.Shared.dll": "sha256-RnUxoen5lCLfh4h7aBdTzzeFeZrC+8kTBuskgb58nXs=",
-      "BlazorChatSignalR.Client.dll": "sha256-anyKSvODSLZo3QTDULNwIDRQP9cSIIE0LjdgxFcoc30="
+      "BlazorChatSignalR.Client.dll": "sha256-uqT7bwTbULAMPruaqcKj1FjjnmbdEWDyW2zKJoFRh2E="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "BlazorChatSignalR.Shared.pdb": "sha256-b5wQn3uzJK2Q3vH3gpl6EmmaMZB+Bb9zqFJisiBUNFo=",
-      "BlazorChatSignalR.Client.pdb": "sha256-RlXBrksjQfQRoyNT4T1QcXyAlQ2PgBfVmbKMqT6ZyYg="
+      "BlazorChatSignalR.Client.pdb": "sha256-WKyIcTtKrgoTxaw9eu42K5t5HIumP0NvlB\/LNMdUOYc="
     },
     "runtime": {
       "dotnet.6.0.8.eshhqohhmy.js": "sha256-WT60vnXnQtCNURE40qo+XSL1o4iYFvABy0NVaFhm7MI=",
